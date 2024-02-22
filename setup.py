@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "text-summerizer"
 AUTHOR_USER_NAME = "Sumitrajput17"
-SRC_REPO = "textsummerizer"
+SRC_REPO = "textSummerizer"
 AUTHOR_EMAIL = "sumit_202200131@smit.smu.edu.in"
 
 setuptools.setup(
